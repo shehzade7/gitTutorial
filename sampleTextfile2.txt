@@ -1,2 +1,4 @@
 this is sample text file, text is ok.file updating
-new code changes
+new code changess
+changes in master
+
