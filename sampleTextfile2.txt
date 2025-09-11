@@ -1,2 +1,3 @@
-this is sample text file, text is ok.file updating
-new code changes
+this is sample text file, txt is ok.file updating
+new code changes 
+new file changes
